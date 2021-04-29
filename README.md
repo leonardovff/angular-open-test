@@ -5,3 +5,7 @@ To get started, clone the repo or download it
 
 npm install
 npm test
+
+## TO DO
+- Update angular servion
+- Make more testing
